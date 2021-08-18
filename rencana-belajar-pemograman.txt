@@ -4,7 +4,7 @@ RENCANA BELAJAR PEMOGRAMAN
     ^ belajar membuat aplikasi edukasi
     ^ belajar membuat game
   * belajar membuat sistem informasi dengan java
-- Belajar pemograman java script
 - Belajar pemograman php
+  * belajar membuat web
 - Belajar pemograman phyton
 - Belajar pemograman html
