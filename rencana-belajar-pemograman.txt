@@ -4,3 +4,4 @@ RENCANA BELAJAR PEMOGRAMAN
   * belajar membuat sistem informasi dengan java
 - Belajar pemograman java script
 - Belajar pemograman php
+- Belajar pemograman phyton
