@@ -1,4 +1,6 @@
 RENCANA BELAJAR PEMOGRAMAN
 - Belajar pemograman java
+  * belajar membuat aplikasi dengan java
+  * belajar membuat sistem informasi dengan java
 - Belajar pemograman java script
 - Belajar pemograman php
