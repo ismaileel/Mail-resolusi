@@ -1,7 +1,9 @@
 RENCANA BELAJAR PEMOGRAMAN
 - Belajar pemograman java
   * belajar membuat aplikasi dengan java
+    ^ belajar membuat aplikasi penjulana mobile
+    ^ belajar membuat game
   * belajar membuat sistem informasi dengan java
-- Belajar pemograman java script
 - Belajar pemograman php
+  * belajar membuat web
 - Belajar pemograman phyton
